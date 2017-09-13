@@ -1,0 +1,15 @@
+{
+  "name": "ilovemycity-jade",
+  "version": "1.0.0",
+  "description": "i love my city application with jade template",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neha Verma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "jade": "^1.11.0"
+  }
+}
